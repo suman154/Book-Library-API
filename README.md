@@ -6,6 +6,8 @@ CRUD Operations: Add, update, delete, and retrieve books
 External API Integration: Fetch additional details from Google Books API
 JWT Authentication: Secure access to endpoints
 Dockerized: Easily deploy with Docker & Docker Compose
+
+
 🛠️ Tech Stack
 Python + FastAPI
 MongoDB for database
